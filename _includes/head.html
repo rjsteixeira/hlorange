@@ -23,7 +23,10 @@
     <meta name="twitter:image:src" content="{{ site.url }}/assets/img/{{ site.sharing_image }}">
 
     <!-- Favicon -->
-    <link rel="icon" type="image/svg+xml" href="{{ "/assets/img/favicon.svg" | prepend: site.baseurl }}" />
+    <link rel="icon" href="{{ "/assets/img/favicon.ico" | prepend: site.baseurl }}" sizes="any">
+    <link rel="icon" type="image/svg+xml" href="{{ "/assets/img/favicon.svg" | prepend: site.baseurl }}">
+    <link rel="icon" type="image/png" sizes="96x96" href="{{ "/assets/img/favicon-96x96.png" | prepend: site.baseurl }}">
+    <link rel="apple-touch-icon" href="{{ "/assets/img/apple-touch-icon.png" | prepend: site.baseurl }}">
 
     <!-- Stylesheet -->
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}">
