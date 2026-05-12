@@ -1,0 +1,34 @@
+# Your Name or Company
+title: Harry Laranja
+
+# Description of your website. This is used for social sharing.
+description:  The personal website of Harry Laranja, creative and adaptable fashion design student with interests across art direction, costume design, and fashion communication.
+
+# A brief blurb about yourself
+content: A creative and adaptable fashion design student with interests across art direction, costume design, and fashion communication.
+
+# Add your social links
+social:
+  - platform: instagram
+    url: https://www.instagram.com/harry_laranja
+  - platform: linkedin
+    url: https://www.linkedin.com/in/harry-laranja-077894198/
+  - platform: email
+    url: mailto:aharrylaranja@gmail.com
+  - platform: résumé
+    url: assets/cv/Harry_Laranja_CV.pdf
+
+# General settings
+# url: http://www.hlorange.com
+# baseurl: "/" 
+markdown: kramdown
+sharing_image: harry.jpg
+# google_analytics: "UA-58263416-1" # google analytics tracking
+
+#### LAYOUT OPTIONS #####
+
+# Half layout
+half_side: right
+
+# Full layout
+full_text_position: right # left, right or center
