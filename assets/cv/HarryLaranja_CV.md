@@ -1,7 +1,8 @@
 # HARRY LARANJA
 *Costume Design & Styling | Art Director | Fashion Design Student*
 
-📍 London, UK · 📞 +44 7356 246630 · ✉️ aharrylaranja@gmail.com · 📷 *instagram.com/harry_laranja* · 🎬 *imdb.com/name/nm16397167*
+📍 London, UK · 📞 +44 7356 246630 · ✉️ aharrylaranja@gmail.com
+🌐 *hlorange.com* · 📷 *instagram.com/harry_laranja* · 🎬 *imdb.com/name/nm16397167*
 
 ### About
 A creative and adaptable fashion design student with interests across art direction, costume design, and fashion communication. I bring a strong eye for visual identity together with hands-on experience across the industry. Currently building a varied portfolio of work in the field.
