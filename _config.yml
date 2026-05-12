@@ -12,11 +12,13 @@ social:
   - platform: instagram
     url: https://www.instagram.com/harry_laranja
   - platform: linkedin
-    url: https://www.linkedin.com/in/harry-laranja-077894198/
+    url: https://www.linkedin.com/in/harrylaranja
   - platform: email
     url: mailto:aharrylaranja@gmail.com
   - platform: résumé
     url: assets/cv/HarryLaranja_CV.pdf
+  - platform: imdb
+    url: https://www.imdb.com/name/nm16397167/
 
 # General settings
 # url: http://www.hlorange.com
