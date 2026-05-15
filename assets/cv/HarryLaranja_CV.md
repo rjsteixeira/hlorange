@@ -23,6 +23,9 @@ Styling for a dystopian drama-musical set in 2030, exploring themes of social me
 **EMJota Studio** · Portugal · *emjotastudio.com* · 2023
 Maker and creative assistant at an independent atelier specialising in handmade, one-of-a-kind soft corsets. Contributed to the design of select pieces and to garment hand-construction using custom fabrics, lace, and trims.
 
+**Inditex** · Sales Assistant · Portugal · *Jul – Sep 2023*
+Sales assistant at one of Portugal's highest-footfall fashion retail stores. Gained hands-on experience in garment handling, visual merchandising, and styling support on the shop floor, alongside customer service and stock management.
+
 **Tugapride** · Online LGBTQ+ Pride event for Portugal · *tugapride.com* · 2020
 Lead organiser of a virtual Pride event created in response to COVID-19 restrictions, when in-person Pride celebrations across Portugal were cancelled. Coordinated programming, online platform, communications, and community outreach.
 
