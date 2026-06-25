@@ -1,13 +1,16 @@
 # HARRY LARANJA
-*Costume Design & Styling | Art Director | Fashion Design Student*
+*Luxury Retail Stylist | Fashion Design Student | Art Director*
 
 📍 London, UK · 📞 +44 7356 246630 · ✉️ aharrylaranja@gmail.com
 🌐 *hlorange.com* · 💼 *linkedin.com/in/harrylaranja* · 📷 *instagram.com/harry_laranja* · 🎬 *imdb.com/name/nm16397167*
 
 ### About
-A creative and adaptable fashion design student with interests across art direction, costume design, and fashion communication. I bring a strong eye for visual identity together with hands-on experience across the industry. Currently building a varied portfolio of work in the field.
+A client-focused stylist and fashion design student with a strong eye for personal style, visual identity, and the luxury customer experience. Currently delivering bespoke styling consultations and wardrobe guidance at a London luxury boutique, while building a varied creative portfolio across art direction, costume design, and fashion communication. Passionate about building genuine client relationships through fashion and creating elevated, memorable shopping experiences.
 
 ### Experience
+**Innes Strong** · Client Stylist · London, UK · *2025 – present*
+Stylist and client experience associate at a luxury London boutique offering bespoke tailored clothing and handmade jewellery. Provide personalised styling consultations and wardrobe guidance, nurturing long-term client relationships in a high-end retail environment. Support in-store sales, manage social media content across TikTok and Instagram, assist with influencer partnership coordination, and oversee visual merchandising to ensure the store reflects the brand's luxury aesthetic.
+
 **Between** · Short film · *instagram.com/between_shortfilm* · 2025
 Art direction and styling. Built a colour-accent system to express each character's traits and reflect the director's emotional reading of them, using palette as a narrative device throughout the film.
 
@@ -42,10 +45,10 @@ Two years of foundational study in software engineering, developing analytical t
 **Tourism Desk** · Craft Fair, Vila do Conde, Portugal
 
 ### Skills
+**Styling & Client Services**: Personal styling consultations · Visual merchandising · Wardrobe curation · Client relationship management · Luxury retail
+**Digital & Social Media**: TikTok & Instagram content creation · Influencer partnership coordination · Social media strategy · Community building
+**Creative & Design**: Art direction · Moodboarding · Photography · Image editing · Garment construction · Pattern cutting · Corset construction
 **Software**: CLO 3D · Adobe Photoshop · Illustrator · InDesign · After Effects · Procreate
-**Making**: Garment construction · Hand-sewing · Machine sewing · Pattern cutting · Corset construction
-**Visual & Creative**: Moodboarding · Styling · Art direction · Photography · Image editing
-**Communications**: Social media content · Copywriting · Community building
 
 ### Languages
 Portuguese: Native · English: Proficient · Spanish: Beginner
